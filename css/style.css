@@ -353,7 +353,7 @@ body.lock {
 }
 
 .first {
-  background-image: url("../../img/first/banner-1x.jpg");
+  background-image: url("../img/first/banner-1x.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -727,7 +727,7 @@ body.lock {
   top: 49%;
   right: 0;
   position: absolute;
-  background-image: url("../../img/about/bg.jpg");
+  background-image: url("../img/about/bg.jpg");
   width: 100%;
   height: 50%;
   background-position: center;
@@ -765,7 +765,7 @@ body.lock {
   bottom: 30%;
   left: 0;
   position: absolute;
-  background-image: url("../../img/about/airplane-full.png");
+  background-image: url("../img/about/airplane-full.png");
   background-repeat: no-repeat;
   z-index: 1;
   -webkit-transform: rotate(3.3deg);
@@ -855,19 +855,19 @@ body.lock {
 }
 
 .data__logo--complexity {
-  background-image: url("../../img/icons/level.svg");
+  background-image: url("../img/icons/level.svg");
 }
 
 .data__logo--period {
-  background-image: url("../../img/icons/wall-clock.svg");
+  background-image: url("../img/icons/wall-clock.svg");
 }
 
 .data__logo--duration {
-  background-image: url("../../img/icons/calendar.svg");
+  background-image: url("../img/icons/calendar.svg");
 }
 
 .data__logo--hotel {
-  background-image: url("../../img/icons/hotels.svg");
+  background-image: url("../img/icons/hotels.svg");
 }
 
 .data__category {
@@ -977,7 +977,7 @@ body.lock {
 
 .arrival {
   position: relative;
-  background-image: url("../../img/week/arrival-bg.jpg");
+  background-image: url("../img/week/arrival-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1005,7 +1005,7 @@ body.lock {
   position: absolute;
   bottom: -10px;
   left: 0;
-  background-image: url("../../img/week/cloud-bg.png");
+  background-image: url("../img/week/cloud-bg.png");
   background-repeat: no-repeat;
   width: 100%;
   height: 250px;
@@ -1063,7 +1063,7 @@ body.lock {
   position: absolute;
   bottom: -5px;
   left: 0;
-  background-image: url("../../img/week/vachkazhets-bg.jpg");
+  background-image: url("../img/week/vachkazhets-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1099,7 +1099,7 @@ body.lock {
   bottom: 0;
   right: 0;
   content: "";
-  background-image: url("../../img/week/gull.png");
+  background-image: url("../img/week/gull.png");
   background-repeat: no-repeat;
   width: 373px;
   height: 315px;
@@ -1111,7 +1111,7 @@ body.lock {
 
 .sea {
   position: relative;
-  background-image: url("../../img/week/sea-bg.jpg");
+  background-image: url("../img/week/sea-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1125,7 +1125,7 @@ body.lock {
   position: absolute;
   bottom: -10px;
   left: 0;
-  background-image: url("../../img/week/cloud-bg.png");
+  background-image: url("../img/week/cloud-bg.png");
   background-repeat: no-repeat;
   width: 100%;
   height: 250px;
@@ -1163,7 +1163,7 @@ body.lock {
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
   right: 0;
-  background-image: url("../../img/week/heli-bg.png");
+  background-image: url("../img/week/heli-bg.png");
   background-repeat: no-repeat;
   background-position: center;
   width: 120%;
@@ -1176,7 +1176,7 @@ body.lock {
 }
 
 .leaving {
-  background-image: url("../../img/week/leaving-bg.jpg");
+  background-image: url("../img/week/leaving-bg.jpg");
   background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1272,7 +1272,7 @@ body.lock {
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
   left: 0;
-  background-image: url("../../img/week/cloud-bg.png");
+  background-image: url("../img/week/cloud-bg.png");
   background-repeat: no-repeat;
   width: 100%;
   height: 200px;
@@ -1593,7 +1593,7 @@ body.lock {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url("../../img/forms/forms-bg.jpg");
+  background-image: url("../img/forms/forms-bg.jpg");
   width: 100%;
   height: 50%;
   z-index: -1;
@@ -1624,7 +1624,7 @@ body.lock {
   position: absolute;
   top: 0;
   left: 0;
-  background: rgba(126, 131, 131, 0.9) url("../../img/forms/loading.gif") center/250px no-repeat;
+  background: rgba(126, 131, 131, 0.9) url("../img/forms/loading.gif") center/250px no-repeat;
   width: 100%;
   height: 100%;
   -webkit-box-shadow: 0 0 25px 0 #275553;
@@ -2039,7 +2039,7 @@ body.lock {
 }
 
 .news__img {
-  background-image: url("../../img/footer/review.jpg");
+  background-image: url("../img/footer/review.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -2064,7 +2064,7 @@ body.lock {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("../../img/icons/play.svg");
+  background-image: url("../img/icons/play.svg");
   z-index: 3;
 }
 
@@ -2172,7 +2172,7 @@ body.lock {
   left: -20px;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("../../img/icons/email.svg");
+  background-image: url("../img/icons/email.svg");
   width: 16px;
   height: 16px;
   display: block;
@@ -2190,7 +2190,7 @@ body.lock {
   left: -22px;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("../../img/icons/place-localizer.svg");
+  background-image: url("../img/icons/place-localizer.svg");
   width: 18px;
   height: 18px;
   display: block;
@@ -2267,7 +2267,7 @@ body.lock {
   content: "";
   width: 15px;
   height: 15px;
-  background-image: url("../../img/icons/right-arrow.svg");
+  background-image: url("../img/icons/right-arrow.svg");
   -webkit-transform: rotate(180deg);
       -ms-transform: rotate(180deg);
           transform: rotate(180deg);
@@ -2281,7 +2281,7 @@ body.lock {
   content: "";
   width: 15px;
   height: 15px;
-  background-image: url("../../img/icons/right-arrow.svg");
+  background-image: url("../img/icons/right-arrow.svg");
   background-repeat: no-repeat;
   position: absolute;
   top: 10px;
@@ -2320,23 +2320,23 @@ body.lock {
 }
 
 .social__links--fb {
-  background-image: url("../../img/icons/Facebook.svg");
+  background-image: url("../img/icons/Facebook.svg");
   width: 18px;
   height: 20px;
 }
 
 .social__links--fb-lite {
-  background-image: url("../../img/icons/fb-lite.svg");
+  background-image: url("../img/icons/fb-lite.svg");
 }
 
 .social__links--inst {
-  background-image: url("../../img/icons/inst.svg");
+  background-image: url("../img/icons/inst.svg");
   width: 20px;
   height: 20px;
 }
 
 .social__links--inst-lite {
-  background-image: url("../../img/icons/inst-lite.svg");
+  background-image: url("../img/icons/inst-lite.svg");
 }
 
 .social__links--vk {
@@ -2345,7 +2345,7 @@ body.lock {
 }
 
 .social__links--vk-lite {
-  background-image: url("../../img/icons/vk.svg");
+  background-image: url("../img/icons/vk.svg");
 }
 
 .accent {
@@ -2453,7 +2453,7 @@ body.lock {
 
 .important__btn::after {
   content: "";
-  background-image: url("../../img/icons/right-arrow.svg");
+  background-image: url("../img/icons/right-arrow.svg");
   background-repeat: no-repeat;
   background-position: center;
   top: 32%;
@@ -2603,7 +2603,7 @@ body.lock {
     position: absolute;
     bottom: 0;
     right: 0;
-    background-image: url("../../img/week/eagle.png");
+    background-image: url("../img/week/eagle.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2686,11 +2686,11 @@ body.lock {
 
   .price__subtitle--check {
     background-repeat: no-repeat;
-    background-image: url("../../img/icons/check.svg");
+    background-image: url("../img/icons/check.svg");
   }
 
   .price__subtitle--ruble {
-    background-image: url("../../img/icons/ruble.svg");
+    background-image: url("../img/icons/ruble.svg");
     background-repeat: no-repeat;
   }
 
@@ -2940,7 +2940,7 @@ body.lock {
   }
 
   .about__bg {
-    background-image: url("../../img/about/writing.png");
+    background-image: url("../img/about/writing.png");
     background-repeat: no-repeat;
     background-position: right;
   }
@@ -3127,7 +3127,7 @@ body.lock {
     position: absolute;
     top: 10px;
     left: -50px;
-    background-image: url("../../img/icons/point.svg");
+    background-image: url("../img/icons/point.svg");
     background-repeat: no-repeat;
     width: 36px;
     height: 36px;
@@ -3298,40 +3298,40 @@ body.lock {
   }
 }
 
-.webp .first{ background-image: url(../../img/first/banner-1x.webp); }
+.webp .first{ background-image: url(../img/first/banner-1x.webp); }
 
-.webp .about__bg::after{ background-image: url(../../img/about/bg.webp); }
+.webp .about__bg::after{ background-image: url(../img/about/bg.webp); }
 
-.webp .about::before{ background-image: url(../../img/about/airplane-full.webp); }
+.webp .about::before{ background-image: url(../img/about/airplane-full.webp); }
 
-.webp .arrival{ background-image: url(../../img/week/arrival-bg.webp); }
+.webp .arrival{ background-image: url(../img/week/arrival-bg.webp); }
 
-.webp .arrival::after{ background-image: url(../../img/week/cloud-bg.webp); }
+.webp .arrival::after{ background-image: url(../img/week/cloud-bg.webp); }
 
-.webp .vachkazhets::before{ background-image: url(../../img/week/vachkazhets-bg.webp); }
+.webp .vachkazhets::before{ background-image: url(../img/week/vachkazhets-bg.webp); }
 
-.webp .avachinsky::after{ background-image: url(../../img/week/gull.webp); }
+.webp .avachinsky::after{ background-image: url(../img/week/gull.webp); }
 
-.webp .sea{ background-image: url(../../img/week/sea-bg.webp); }
+.webp .sea{ background-image: url(../img/week/sea-bg.webp); }
 
-.webp .sea::after{ background-image: url(../../img/week/cloud-bg.webp); }
+.webp .sea::after{ background-image: url(../img/week/cloud-bg.webp); }
 
-.webp .helicopter__img{ background-image: url(../../img/week/heli-bg.webp); }
+.webp .helicopter__img{ background-image: url(../img/week/heli-bg.webp); }
 
-.webp .leaving{ background-image: url(../../img/week/leaving-bg.webp); }
+.webp .leaving{ background-image: url(../img/week/leaving-bg.webp); }
 
-.webp .popup__inner::after{ background-image: url(../../img/week/cloud-bg.webp); }
+.webp .popup__inner::after{ background-image: url(../img/week/cloud-bg.webp); }
 
-.webp .forms::after{ background-image: url(../../img/forms/forms-bg.webp); }
+.webp .forms::after{ background-image: url(../img/forms/forms-bg.webp); }
 
-.webp .news__img{ background-image: url(../../img/footer/review.webp); }
+.webp .news__img{ background-image: url(../img/footer/review.webp); }
 
 @media (min-width: 768px){
 
-  .webp .vachkazhets::after{ background-image: url(../../img/week/eagle.webp); }
+  .webp .vachkazhets::after{ background-image: url(../img/week/eagle.webp); }
 }
 
 @media (min-width: 992px){
 
-  .webp .about__bg{ background-image: url(../../img/about/writing.webp); }
+  .webp .about__bg{ background-image: url(../img/about/writing.webp); }
 }

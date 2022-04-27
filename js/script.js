@@ -258,7 +258,7 @@ const menuBody = document.querySelector('.menu__body');
 
 if (iconMenu) {
   iconMenu.addEventListener('click', (e) => {
-    document.body.classList.toggle('_lock');
+    document.body.classList.toggle('lock');
     iconMenu.classList.toggle('_active');
     menuBody.classList.toggle('_active');
   });
@@ -352,7 +352,6 @@ popupLinks.forEach(link => {
   link.addEventListener('click', (e) => {
     const popupName = link.getAttribute('href').replace('#', '')
     const currentPopup = document.getElementById(popupName)
-    console.log(currentPopup)
     openPopup(currentPopup)
     e.preventDefault()
   })
